@@ -6,4 +6,4 @@ We aim to develop a formalised and general framework for the integration of data
 
 In further work, we hope to improve the matching algorithm by learning from past mistakes. For example, if the clinician tells the system that “Calcium ion” and “Calcium (urine)” are not the same, then it could update the probability of a match between “Kreatinine” and “Creatinine (urine)”. We would also like to incorporate the eICU dataset and improve documentation.
 
-The software used for this project can be found here: https://github.com/EmmaRocheteau/ICUnity. The project was initially developed at the Milan Critical Care Datathon 2020 and is still in active development and we welcome advice and contributions from the community. 
+The software used for this project can be found here. The project was initially developed at the Milan Critical Care Datathon 2020 and is still in active development and we welcome advice and contributions from the community. 
